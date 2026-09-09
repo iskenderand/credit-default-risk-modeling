@@ -228,7 +228,7 @@ Applied to the test set:
 
 ### XGBoost Confusion Matrix at 0.25 Threshold
 
-![XGBoost Confusion Matrix at 0.25 Threshold](figures/xgboost_confusion_matrix_025.png)
+![XGBoost Confusion Matrix at 0.25 Threshold](figures/xgboost_confusion_matrix_025.png.png)
 
 ---
 
